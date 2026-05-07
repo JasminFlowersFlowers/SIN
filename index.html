@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Proyecto SIN</title>
+
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+
+<body class="bg-light">
+
+
+<div class="container text-center mt-5">
+
+
+    <!-- Logo -->
+    <img src="https://portal.edu.gva.es/iesmiralcamp/wp-content/uploads/sites/191/2020/12/logo-IES-Miralcamp-2017-mini-300x240-300x240.png"
+         alt="Logo IES Miralcamp"
+         class="mb-4">
+
+
+    <!-- Título -->
+    <h1 class="mb-3">Proyecto SIN</h1>
+
+
+    <p class="lead">
+        Ejemplo de página web con HTML, CSS y JavaScript
+    </p>
+
+
+    <!-- Botón -->
+    <button class="btn btn-primary" onclick="mostrarMensaje()">
+        Pulsa aquí
+    </button>
+
+
+    <!-- Zona de resultado -->
+    <p id="mensaje" class="mt-4 fw-bold"></p>
+
+
+</div>
+
+
+<!-- JavaScript -->
+<script>
+function mostrarMensaje() {
+    document.getElementById("mensaje").innerText = "¡Has hecho clic en el botón!";
+}
+</script>
+
+
+</body>
+</html>
