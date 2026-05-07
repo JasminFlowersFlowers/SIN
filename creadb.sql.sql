@@ -1,0 +1,10 @@
+CREATE DATABASE sin;
+
+
+USE sin;
+
+
+CREATE TABLE usuarios (
+    id SERIAL PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL
+);
