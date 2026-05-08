@@ -66,6 +66,11 @@ A lo largo del proyecto se trabajan conceptos fundamentales como:
   👉 *Game 3: 🎮 Tetris estilo "Cyberpunk"*  
   Proyecto final más complejo con mayor dinamismo y lógica en el cliente.
 
+- **`4.php`**  
+  👉 *Ejemplo 4: CRUD con base de datos*  
+  Aplicación completa con operaciones Create, Read, Update y Delete utilizando MySQL.
+
+
 
 ---
 
@@ -82,6 +87,7 @@ Este repositorio sigue una progresión clara:
 4. Persistencia (base de datos)
 5. Aplicaciones completas (CRUD)
 6. Aplicaciones dinámicas (juegos)
+7. Desarrollo frontend interactivo
 
 
 El objetivo no es solo entender el código, sino **comprender cómo interactúan todas las partes de una aplicación web moderna**.
