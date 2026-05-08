@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS sin_game4;
+USE sin_game4;
+
+CREATE TABLE IF NOT EXISTS puntuaciones (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    usuario VARCHAR(100),
+    movimientos INT,
+    tiempo INT,
+    fecha TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
