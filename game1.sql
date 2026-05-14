@@ -10,4 +10,3 @@ CREATE TABLE puntuaciones (
     puntos INT,
     fecha TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-

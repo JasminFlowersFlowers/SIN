@@ -66,9 +66,9 @@ A lo largo del proyecto se trabajan conceptos fundamentales como:
   👉 *Game 3: 🎮 Tetris estilo "Cyberpunk"*  
   Proyecto final más complejo con mayor dinamismo y lógica en el cliente.
 
-- **`4.php`**  
-  👉 *Ejemplo 4: CRUD con base de datos*  
-  Aplicación completa con operaciones Create, Read, Update y Delete utilizando MySQL.
+- **`game4.php`**  
+  👉 *🚀 Game 4: Memory Match Deluxe (Full Stack)*  
+  Este juego combina una interfaz interactiva de memoria con un sistema de base de datos que registra y clasifica los mejores tiempos de los usuarios en tiempo real.
 
 
 
